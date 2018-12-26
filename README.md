@@ -4,7 +4,7 @@
 
 [Spring docs](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
 
-To run, call ```gradle bootrun```
+To run backend, call ```gradle bootrun``` from the root directory.
 
 ### Tools needed:
 * [Homebrew](https://brew.sh/)
@@ -29,7 +29,7 @@ yarn add bootstrap@4.1.3 react-cookie@3.0.4 react-router-dom@4.3.1 reactstrap@6.
 
 Add Bootstrap’s CSS file as an import in ```app/src/index.js```.
 
-To run, call ```yarn start```
+To run frontend, call ```yarn start``` from the ```/app``` directory.
 
 ### Tools needed
 * [Node](https://nodejs.org/en/)
